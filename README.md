@@ -1,7 +1,7 @@
 Compile & inject into a loader. it will dump you all drivers that going to be loaded using kdmapper. enjoy
 
 
-i fixe section with: 
+i fix section with: 
 
 https://githacks.org/xerox/kdstinker/-/blob/master/Dump-Fixer.exe (credits to XEROX)
 
